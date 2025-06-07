@@ -8,7 +8,8 @@ class Solution {
          while(left< right){
             maxArea=Math.max(maxArea,( Math.min(height[left],height[right])*(right-left)));
  
-        if(height[left]<height[right])
+        if(height[left]<height[right])//moving the shorter line inward
+            
         {
             left++;
         }
