@@ -37,6 +37,7 @@ Leetcode Practice problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NV-Nandini/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0680-valid-palindrome-ii](https://github.com/NV-Nandini/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1764-maximum-repeating-substring](https://github.com/NV-Nandini/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,4 +46,12 @@ Leetcode Practice problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NV-Nandini/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/NV-Nandini/LeetCode/tree/master/1764-maximum-repeating-substring) |
+## String Matching
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/NV-Nandini/LeetCode/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
