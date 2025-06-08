@@ -15,10 +15,12 @@ Leetcode Practice problems
 | [0011-container-with-most-water](https://github.com/NV-Nandini/LeetCode/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/NV-Nandini/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NV-Nandini/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0680-valid-palindrome-ii](https://github.com/NV-Nandini/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NV-Nandini/LeetCode/tree/master/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/NV-Nandini/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -27,4 +29,8 @@ Leetcode Practice problems
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NV-Nandini/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## String
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/NV-Nandini/LeetCode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
