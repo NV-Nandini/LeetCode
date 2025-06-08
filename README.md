@@ -35,5 +35,14 @@ Leetcode Practice problems
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NV-Nandini/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0680-valid-palindrome-ii](https://github.com/NV-Nandini/LeetCode/tree/master/0680-valid-palindrome-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NV-Nandini/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/NV-Nandini/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
