@@ -8,6 +8,7 @@ Leetcode Practice problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/NV-Nandini/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/NV-Nandini/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/NV-Nandini/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/NV-Nandini/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NV-Nandini/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/NV-Nandini/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
@@ -30,6 +31,7 @@ Leetcode Practice problems
 |  |
 | ------- |
 | [0015-3sum](https://github.com/NV-Nandini/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/NV-Nandini/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/NV-Nandini/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/NV-Nandini/LeetCode/tree/master/0242-valid-anagram) |
 ## Binary Search
@@ -42,6 +44,7 @@ Leetcode Practice problems
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NV-Nandini/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NV-Nandini/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/NV-Nandini/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/NV-Nandini/LeetCode/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/NV-Nandini/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1764-maximum-repeating-substring](https://github.com/NV-Nandini/LeetCode/tree/master/1764-maximum-repeating-substring) |
@@ -49,6 +52,7 @@ Leetcode Practice problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NV-Nandini/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/NV-Nandini/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/NV-Nandini/LeetCode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
