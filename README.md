@@ -15,6 +15,7 @@ Leetcode Practice problems
 | [0238-product-of-array-except-self](https://github.com/NV-Nandini/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/NV-Nandini/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0724-find-pivot-index](https://github.com/NV-Nandini/LeetCode/tree/master/0724-find-pivot-index) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/NV-Nandini/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1833-find-the-highest-altitude](https://github.com/NV-Nandini/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Two Pointers
 |  |
@@ -59,6 +60,7 @@ Leetcode Practice problems
 | [0003-longest-substring-without-repeating-characters](https://github.com/NV-Nandini/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/NV-Nandini/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/NV-Nandini/LeetCode/tree/master/0242-valid-anagram) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/NV-Nandini/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
