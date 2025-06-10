@@ -27,6 +27,7 @@ Leetcode Practice problems
 | [0088-merge-sorted-array](https://github.com/NV-Nandini/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/NV-Nandini/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NV-Nandini/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0345-reverse-vowels-of-a-string](https://github.com/NV-Nandini/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/NV-Nandini/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/NV-Nandini/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Greedy
@@ -55,6 +56,7 @@ Leetcode Practice problems
 | [0049-group-anagrams](https://github.com/NV-Nandini/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/NV-Nandini/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/NV-Nandini/LeetCode/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/NV-Nandini/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/NV-Nandini/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1764-maximum-repeating-substring](https://github.com/NV-Nandini/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NV-Nandini/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
