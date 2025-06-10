@@ -40,6 +40,7 @@ Leetcode Practice problems
 | [0049-group-anagrams](https://github.com/NV-Nandini/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/NV-Nandini/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/NV-Nandini/LeetCode/tree/master/0242-valid-anagram) |
+| [1777-determine-if-two-strings-are-close](https://github.com/NV-Nandini/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ Leetcode Practice problems
 | [0242-valid-anagram](https://github.com/NV-Nandini/LeetCode/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/NV-Nandini/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1764-maximum-repeating-substring](https://github.com/NV-Nandini/LeetCode/tree/master/1764-maximum-repeating-substring) |
+| [1777-determine-if-two-strings-are-close](https://github.com/NV-Nandini/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +65,7 @@ Leetcode Practice problems
 | [0242-valid-anagram](https://github.com/NV-Nandini/LeetCode/tree/master/0242-valid-anagram) |
 | [1319-unique-number-of-occurrences](https://github.com/NV-Nandini/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/NV-Nandini/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/NV-Nandini/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Sliding Window
 |  |
 | ------- |
@@ -97,4 +100,8 @@ Leetcode Practice problems
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/NV-Nandini/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/NV-Nandini/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
