@@ -15,6 +15,7 @@ Leetcode Practice problems
 | [0238-product-of-array-except-self](https://github.com/NV-Nandini/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/NV-Nandini/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/NV-Nandini/LeetCode/tree/master/0283-move-zeroes) |
+| [0605-can-place-flowers](https://github.com/NV-Nandini/LeetCode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/NV-Nandini/LeetCode/tree/master/0724-find-pivot-index) |
 | [1319-unique-number-of-occurrences](https://github.com/NV-Nandini/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/NV-Nandini/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -40,6 +41,7 @@ Leetcode Practice problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NV-Nandini/LeetCode/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/NV-Nandini/LeetCode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/NV-Nandini/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
