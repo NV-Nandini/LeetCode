@@ -78,6 +78,7 @@ Leetcode Practice problems
 | [1764-maximum-repeating-substring](https://github.com/NV-Nandini/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NV-Nandini/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/NV-Nandini/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/NV-Nandini/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +156,7 @@ Leetcode Practice problems
 | [0155-min-stack](https://github.com/NV-Nandini/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/NV-Nandini/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/NV-Nandini/LeetCode/tree/master/0739-daily-temperatures) |
+| [2470-removing-stars-from-a-string](https://github.com/NV-Nandini/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
@@ -168,4 +170,8 @@ Leetcode Practice problems
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/NV-Nandini/LeetCode/tree/master/0739-daily-temperatures) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/NV-Nandini/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
