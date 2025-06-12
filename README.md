@@ -18,6 +18,7 @@ Leetcode Practice problems
 | [0283-move-zeroes](https://github.com/NV-Nandini/LeetCode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/NV-Nandini/LeetCode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/NV-Nandini/LeetCode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/NV-Nandini/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/NV-Nandini/LeetCode/tree/master/0739-daily-temperatures) |
 | [1319-unique-number-of-occurrences](https://github.com/NV-Nandini/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/NV-Nandini/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -155,6 +156,7 @@ Leetcode Practice problems
 | [0150-evaluate-reverse-polish-notation](https://github.com/NV-Nandini/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/NV-Nandini/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/NV-Nandini/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0735-asteroid-collision](https://github.com/NV-Nandini/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/NV-Nandini/LeetCode/tree/master/0739-daily-temperatures) |
 | [2470-removing-stars-from-a-string](https://github.com/NV-Nandini/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Design
@@ -173,5 +175,6 @@ Leetcode Practice problems
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/NV-Nandini/LeetCode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/NV-Nandini/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
