@@ -115,6 +115,7 @@ Leetcode Practice problems
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/NV-Nandini/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/NV-Nandini/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -149,8 +150,10 @@ Leetcode Practice problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/NV-Nandini/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/NV-Nandini/LeetCode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/NV-Nandini/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/NV-Nandini/LeetCode/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/NV-Nandini/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
