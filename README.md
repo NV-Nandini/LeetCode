@@ -65,6 +65,7 @@ Leetcode Practice problems
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NV-Nandini/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/NV-Nandini/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/NV-Nandini/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/NV-Nandini/LeetCode/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/NV-Nandini/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -143,4 +144,8 @@ Leetcode Practice problems
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/NV-Nandini/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/NV-Nandini/LeetCode/tree/master/0206-reverse-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/NV-Nandini/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
