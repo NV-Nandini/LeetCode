@@ -153,6 +153,7 @@ Leetcode Practice problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NV-Nandini/LeetCode/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/NV-Nandini/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NV-Nandini/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/NV-Nandini/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/NV-Nandini/LeetCode/tree/master/0232-implement-queue-using-stacks) |
@@ -177,4 +178,16 @@ Leetcode Practice problems
 | ------- |
 | [0735-asteroid-collision](https://github.com/NV-Nandini/LeetCode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/NV-Nandini/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NV-Nandini/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NV-Nandini/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NV-Nandini/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
