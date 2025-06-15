@@ -186,6 +186,7 @@ Leetcode Practice problems
 | [0101-symmetric-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/NV-Nandini/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -194,6 +195,7 @@ Leetcode Practice problems
 | [0101-symmetric-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/NV-Nandini/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -202,6 +204,7 @@ Leetcode Practice problems
 | [0101-symmetric-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/NV-Nandini/LeetCode/tree/master/0904-leaf-similar-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
