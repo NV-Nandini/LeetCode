@@ -103,6 +103,7 @@ Leetcode Practice problems
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/NV-Nandini/LeetCode/tree/master/0392-is-subsequence) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1764-maximum-repeating-substring](https://github.com/NV-Nandini/LeetCode/tree/master/1764-maximum-repeating-substring) |
 ## String Matching
 |  |
@@ -187,6 +188,7 @@ Leetcode Practice problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/NV-Nandini/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -197,6 +199,7 @@ Leetcode Practice problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/NV-Nandini/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -207,6 +210,7 @@ Leetcode Practice problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/NV-Nandini/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
