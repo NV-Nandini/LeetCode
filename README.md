@@ -183,21 +183,28 @@ Leetcode Practice problems
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NV-Nandini/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NV-Nandini/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/NV-Nandini/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
