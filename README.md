@@ -205,6 +205,7 @@ Leetcode Practice problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/NV-Nandini/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/NV-Nandini/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/NV-Nandini/LeetCode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/NV-Nandini/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -240,6 +241,7 @@ Leetcode Practice problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/NV-Nandini/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/NV-Nandini/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/NV-Nandini/LeetCode/tree/master/0207-course-schedule) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Union Find
@@ -250,4 +252,12 @@ Leetcode Practice problems
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/NV-Nandini/LeetCode/tree/master/0200-number-of-islands) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/NV-Nandini/LeetCode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/NV-Nandini/LeetCode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
