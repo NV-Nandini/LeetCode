@@ -21,6 +21,7 @@ Leetcode Practice problems
 | [0724-find-pivot-index](https://github.com/NV-Nandini/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/NV-Nandini/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/NV-Nandini/LeetCode/tree/master/0739-daily-temperatures) |
+| [1039-find-the-town-judge](https://github.com/NV-Nandini/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/NV-Nandini/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/NV-Nandini/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/NV-Nandini/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -91,6 +92,7 @@ Leetcode Practice problems
 | [0141-linked-list-cycle](https://github.com/NV-Nandini/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NV-Nandini/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/NV-Nandini/LeetCode/tree/master/0242-valid-anagram) |
+| [1039-find-the-town-judge](https://github.com/NV-Nandini/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/NV-Nandini/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/NV-Nandini/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NV-Nandini/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
@@ -260,6 +262,7 @@ Leetcode Practice problems
 | ------- |
 | [0133-clone-graph](https://github.com/NV-Nandini/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/NV-Nandini/LeetCode/tree/master/0207-course-schedule) |
+| [1039-find-the-town-judge](https://github.com/NV-Nandini/LeetCode/tree/master/1039-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
