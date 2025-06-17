@@ -18,6 +18,7 @@ Leetcode Practice problems
 | [0239-sliding-window-maximum](https://github.com/NV-Nandini/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/NV-Nandini/LeetCode/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/NV-Nandini/LeetCode/tree/master/0605-can-place-flowers) |
+| [0721-accounts-merge](https://github.com/NV-Nandini/LeetCode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/NV-Nandini/LeetCode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/NV-Nandini/LeetCode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/NV-Nandini/LeetCode/tree/master/0739-daily-temperatures) |
@@ -59,6 +60,7 @@ Leetcode Practice problems
 | [0049-group-anagrams](https://github.com/NV-Nandini/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/NV-Nandini/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/NV-Nandini/LeetCode/tree/master/0242-valid-anagram) |
+| [0721-accounts-merge](https://github.com/NV-Nandini/LeetCode/tree/master/0721-accounts-merge) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NV-Nandini/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NV-Nandini/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Binary Search
@@ -78,6 +80,7 @@ Leetcode Practice problems
 | [0345-reverse-vowels-of-a-string](https://github.com/NV-Nandini/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/NV-Nandini/LeetCode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/NV-Nandini/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0721-accounts-merge](https://github.com/NV-Nandini/LeetCode/tree/master/0721-accounts-merge) |
 | [1764-maximum-repeating-substring](https://github.com/NV-Nandini/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NV-Nandini/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/NV-Nandini/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -92,6 +95,7 @@ Leetcode Practice problems
 | [0141-linked-list-cycle](https://github.com/NV-Nandini/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NV-Nandini/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/NV-Nandini/LeetCode/tree/master/0242-valid-anagram) |
+| [0721-accounts-merge](https://github.com/NV-Nandini/LeetCode/tree/master/0721-accounts-merge) |
 | [1039-find-the-town-judge](https://github.com/NV-Nandini/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1319-unique-number-of-occurrences](https://github.com/NV-Nandini/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/NV-Nandini/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -211,6 +215,7 @@ Leetcode Practice problems
 | [0200-number-of-islands](https://github.com/NV-Nandini/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/NV-Nandini/LeetCode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0721-accounts-merge](https://github.com/NV-Nandini/LeetCode/tree/master/0721-accounts-merge) |
 | [0904-leaf-similar-trees](https://github.com/NV-Nandini/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -247,12 +252,14 @@ Leetcode Practice problems
 | [0199-binary-tree-right-side-view](https://github.com/NV-Nandini/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/NV-Nandini/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/NV-Nandini/LeetCode/tree/master/0207-course-schedule) |
+| [0721-accounts-merge](https://github.com/NV-Nandini/LeetCode/tree/master/0721-accounts-merge) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/NV-Nandini/LeetCode/tree/master/0200-number-of-islands) |
+| [0721-accounts-merge](https://github.com/NV-Nandini/LeetCode/tree/master/0721-accounts-merge) |
 ## Matrix
 |  |
 | ------- |
