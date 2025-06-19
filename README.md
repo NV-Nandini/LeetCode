@@ -12,6 +12,7 @@ Leetcode Practice problems
 | [0088-merge-sorted-array](https://github.com/NV-Nandini/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NV-Nandini/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NV-Nandini/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/NV-Nandini/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/NV-Nandini/LeetCode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/NV-Nandini/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/NV-Nandini/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -111,6 +112,7 @@ Leetcode Practice problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/NV-Nandini/LeetCode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/NV-Nandini/LeetCode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/NV-Nandini/LeetCode/tree/master/0392-is-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1764-maximum-repeating-substring](https://github.com/NV-Nandini/LeetCode/tree/master/1764-maximum-repeating-substring) |
