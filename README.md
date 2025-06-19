@@ -110,6 +110,7 @@ Leetcode Practice problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/NV-Nandini/LeetCode/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/NV-Nandini/LeetCode/tree/master/0392-is-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1764-maximum-repeating-substring](https://github.com/NV-Nandini/LeetCode/tree/master/1764-maximum-repeating-substring) |
@@ -177,6 +178,7 @@ Leetcode Practice problems
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/NV-Nandini/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NV-Nandini/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
@@ -281,4 +283,8 @@ Leetcode Practice problems
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/NV-Nandini/LeetCode/tree/master/0207-course-schedule) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/NV-Nandini/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
