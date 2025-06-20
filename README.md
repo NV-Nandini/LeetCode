@@ -9,6 +9,7 @@ Leetcode Practice problems
 | [0011-container-with-most-water](https://github.com/NV-Nandini/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/NV-Nandini/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/NV-Nandini/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/NV-Nandini/LeetCode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/NV-Nandini/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/NV-Nandini/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NV-Nandini/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -53,6 +54,7 @@ Leetcode Practice problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NV-Nandini/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/NV-Nandini/LeetCode/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/NV-Nandini/LeetCode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/NV-Nandini/LeetCode/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
@@ -113,6 +115,7 @@ Leetcode Practice problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/NV-Nandini/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/NV-Nandini/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/NV-Nandini/LeetCode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/NV-Nandini/LeetCode/tree/master/0300-longest-increasing-subsequence) |
