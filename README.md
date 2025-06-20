@@ -18,6 +18,7 @@ Leetcode Practice problems
 | [0238-product-of-array-except-self](https://github.com/NV-Nandini/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/NV-Nandini/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/NV-Nandini/LeetCode/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/NV-Nandini/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0605-can-place-flowers](https://github.com/NV-Nandini/LeetCode/tree/master/0605-can-place-flowers) |
 | [0721-accounts-merge](https://github.com/NV-Nandini/LeetCode/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/NV-Nandini/LeetCode/tree/master/0724-find-pivot-index) |
@@ -69,6 +70,7 @@ Leetcode Practice problems
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NV-Nandini/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/NV-Nandini/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/NV-Nandini/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 ## String
 |  |
 | ------- |
@@ -113,6 +115,7 @@ Leetcode Practice problems
 | ------- |
 | [0070-climbing-stairs](https://github.com/NV-Nandini/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/NV-Nandini/LeetCode/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/NV-Nandini/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/NV-Nandini/LeetCode/tree/master/0392-is-subsequence) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/NV-Nandini/LeetCode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1764-maximum-repeating-substring](https://github.com/NV-Nandini/LeetCode/tree/master/1764-maximum-repeating-substring) |
